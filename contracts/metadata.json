@@ -1,0 +1,9 @@
+{
+    "name": "soq",
+    "description": "Mister Zoda",
+    "image": "ipfs://Qmcf5fPXASXbQggZWb9QjaTmByVgi3jm99Ths5afYiBpbc",
+    "attributes": [{
+        "trait_type": "Aweome",
+        "value": 100
+    }]
+}
